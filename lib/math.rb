@@ -1,4 +1,4 @@
-def addition(num1=5, num2=5)
+def addition(num1=5, num2=4)
   result = (#{num1} + #{num2})
   puts result
 end
